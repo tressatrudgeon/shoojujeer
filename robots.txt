@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieyakelee.twitterist.org/sitemap.xml
